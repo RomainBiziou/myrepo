@@ -5,6 +5,7 @@ text = input("Reponse : ")
 
 print("Etes vous sûr(e) ?")
 text1 = input("Reponse : ")
-print("Est-ce que ça m'interesse ?")
 
+print('Vraiment sûr(e) ?')
+text2 = input("Reponse : ")
 print("LA BATTERIE")
